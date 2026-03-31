@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "やっぱり泣くよ",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-03-31T03:53:11.782501Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やっぱり泣くよ",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_やっぱり泣くよ_コレサワ.txt"
+    }
+  ]
+}
